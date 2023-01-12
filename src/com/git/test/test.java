@@ -12,8 +12,8 @@ public class test {
         System.out.println("Hello World!");
         User u1 = new User("admin","管理员","123123");
         System.out.println(u1);
-        System.out.println(u1);
-        System.out.println(u1);
+        User u2 = new User("admin","管理员","123123");
+        System.out.println(u2);
         System.out.println("gitee push");
     }
 }
