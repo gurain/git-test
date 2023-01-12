@@ -10,10 +10,6 @@ package com.git.test;
 public class test {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        User u1 = new User("admin","管理员","123123");
-        System.out.println(u1);
-        User u2 = new User("admin","管理员","123123");
-        System.out.println(u2);
-        System.out.println("gitee push");
+        System.out.println("Java Web");
     }
 }
