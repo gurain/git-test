@@ -14,5 +14,6 @@ public class test {
         System.out.println(u1);
         System.out.println(u1);
         System.out.println(u1);
+        System.out.println("gitee push");
     }
 }
